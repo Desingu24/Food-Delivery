@@ -6,7 +6,7 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots/99-banner.png">
+<img src="https://github.com/Desingu24/Food-Delivery/blob/main/screenshots/99-banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots">click here</a>
 
 # Technologies Used
