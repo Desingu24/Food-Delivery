@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+<img src="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots">click here</a>
 
 # Technologies Used
 <ul>
@@ -33,11 +33,8 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-# Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
+# Live Website
+<ol>
+<li>Make a visit to thr Live hosted Server --><a href="https://foodie.zeal.party/">
+<li>
+<ol>
