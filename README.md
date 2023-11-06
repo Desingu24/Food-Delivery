@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Desingu24/Food_Delivery/tree/main/screenshots">click here</a>
+<img src="https://github.com/Desingu24/Food-Delivery/blob/main/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Desingu24/Food-Delivery/tree/main/screenshots">click here</a>
 
 # Technologies Used
 <ul>
@@ -36,5 +36,5 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 # Live Website
 <ol>
 <li>Make a visit to thr Live hosted Server --><a href="https://foodie.zeal.party/">
-<li>
-<ol>
+</a></li>
+</ol>
