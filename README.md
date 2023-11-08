@@ -35,6 +35,6 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 
 # Live Website
 <ol>
-<li>Make a visit to thr Live hosted Server --> <a href="https://foodie.zeal.party/">https://foodie.zeal.party/
+<li>Make a visit to thr Live hosted Server --> <a href="https://foodie.zeal.party/">ClickMe
 </a></li>
 </ol>
